@@ -1,0 +1,42 @@
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  display: block;
+}
+
+body {
+  background: url(fundo.jpg);
+}
+
+.espaco {
+  height: 6vh;
+}
+
+fieldset {
+  margin: 6%;
+  border-color: #dbe106;
+  border: 6px solid #dbe106;
+  text-align: center;
+  display: block;
+  margin-top: 10vh;
+}
+
+.img {
+  width: 40vw;
+  height: auto;
+  background-color: transparent;
+  margin-left: 5vw;
+  margin-right: 6vw;
+}
+
+img {
+  width: 100%
+}
+
+.botoes {
+  margin-top: 2%;
+}
